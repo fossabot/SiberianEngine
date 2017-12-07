@@ -10,3 +10,4 @@ platform: Win32
 
 build:
     project: SiberianEngine.sln
+    verbosity: minimal
